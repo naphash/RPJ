@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://napnap.netlify.app/sitemap.xml
