@@ -1,7 +1,4 @@
-User-agent: Mediapartners-Google
+User-agent: *
 Disallow: 
 
-User-agent: *
-Disallow: /search
-Allow: /
 Sitemap: https://napnap.netlify.app/sitemap.xml
